@@ -6,3 +6,5 @@ Primeira modificação
 git push
 
 test git pull
+
+teste fetch
